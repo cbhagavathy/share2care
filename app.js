@@ -29,6 +29,11 @@ app.get('/show_experience', async(req, res) => {
 	res.render('experiences/index', {experiences});
 });
 
+app.get('/show_experience/:id', async(req, res) => {
+	const experience = await Experience.findById(req.params.id);
+	res.render('experiences/show', {experience});
+});
+
 app.listen(8080, () => {
 	console.log('Caring on port 8080');
 });
