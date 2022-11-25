@@ -1,0 +1,1216 @@
+No,City,State,Type,Population,Population class
+1,Mumbai,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+2,Delhi,Delhi,Municipal Corporation / Corporation,pop,Class I
+3,Bengaluru,Karnataka,Municipal Corporation / Corporation,pop,Class I
+4,Ahmedabad,Gujarat,Municipal Corporation / Corporation.,pop,Class I
+5,Hyderabad,Telangana,Municipal Corporation / Corporation,pop,Class I
+6,Chennai,Tamil Nadu,Municipal Corporation / Corporation.,pop,Class I
+7,Kolkata,West Bengal,Municipal Corporation / Corporation,pop,Class I
+8,Pune,Maharashtra,Urban Agglomeration,pop,
+9,Jaipur,Rajasthan,Municipal Corporation / Corporation,pop,Class I
+10,Surat,Gujarat,Municipal Corporation / Corporation.,pop,
+11,Lucknow,Uttar Pradesh,Municipal Corporation / Corporation,pop,Class I
+12,Kanpur,Uttar Pradesh,Municipal Corporation / Corporation,pop,Class I
+13,Nagpur,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+14,Patna,Bihar,Municipal Corporation / Corporation.,pop,
+15,Indore,Madhya Pradesh,Municipal Corporation / Corporation.,pop,Class I
+16,Thane,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+17,Bhopal,Madhya Pradesh,Municipal Corporation / Corporation.,pop,Class I
+18,Visakhapatnam,Andhra Pradesh,Municipal Committee.,pop,Class I
+19,Vadodara,Gujarat,Municipal Committee.,pop,Class I
+20,Firozabad,Uttar Pradesh,Census town.,pop,Class I
+21,Ludhiana,Punjab,Municipal Corporation / Corporation.,pop,Class I
+22,Rajkot,Gujarat,Urban Agglomeration,pop,
+23,Agra,Uttar Pradesh,Municipal Corporation / Corporation.,pop,Class I
+24,Siliguri,West Bengal,Municipal Corporation / Corporation.,pop,
+25,Nashik,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+26,Faridabad,Haryana,Municipal Corporation / Corporation.,pop,Class I
+27,Patiala,Punjab,Municipal Corporation / Corporation.,pop,
+28,Meerut,Uttar Pradesh,Municipal Corporation / Corporation,pop,Class I
+29,Kalyan-Dombivali,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+30,Vasai-Virar,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+31,Varanasi,Uttar Pradesh,Municipal Corporation / Corporation.,pop,Class I
+32,Srinagar,Jammu and Kashmir,Urban Agglomeration,pop,
+33,Dhanbad,Jharkhand,Municipal Corporation / Corporation,pop,Class I
+34,Jodhpur,Rajasthan,Municipal Corporation / Corporation,pop,Class I
+35,Amritsar,Punjab,Municipal Corporation / Corporation.,pop,Class I
+36,Raipur,Chhattisgarh,Municipal Committee,pop,
+37,Allahabad,Uttar Pradesh,Municipality.,pop,Class I
+38,Coimbatore,Tamil Nadu,Municipal Corporation / Corporation,pop,Class I
+39,Jabalpur,Madhya Pradesh,Municipal Corporation / Corporation,pop,Class I
+40,Gwalior,Madhya Pradesh,Municipal Corporation / Corporation,pop,Class I
+41,Vijayawada,Andhra Pradesh,Municipal Corporation / Corporation.,pop,Class I
+42,Madurai,Tamil Nadu,Municipal Corporation / Corporation,pop,Class I
+43,Guwahati,Assam,Municipal Corporation / Corporation,pop,Class I
+44,Chandigarh,Chandigarh,Municipal Corporation / Corporation.,pop,Class I
+45,Hubli-Dharwad,Karnataka,Municipal Corporation / Corporation,pop,Class I
+46,Amroha,Uttar Pradesh,Nagar Panchayat.,pop,Class I
+47,Moradabad,Uttar Pradesh,Municipal Corporation / Corporation,pop,Class I
+48,Gurgaon,Haryana,Municipal Corporation / Corporation.,pop,Class I
+49,Aligarh,Uttar Pradesh,Municipalityunicipal Corporation / Corporation.,pop,Class I
+50,Solapur,Maharashtra,Municipal Corporation / Corporation.,pop,
+51,Ranchi,Jharkhand,Urban Agglomeration,pop,
+52,Jalandhar,Punjab,Municipal Corporation / Corporation,pop,Class I
+53,Tiruchirappalli,Tamil Nadu,Municipal Corporation / Corporation.,pop,Class I
+54,Bhubaneswar,Odisha,Municipal Corporation / Corporation,pop,Class I
+55,Salem,Tamil Nadu,Municipal Corporation / Corporation,pop,Class I
+56,Warangal,Telangana,Municipal Corporation / Corporation.,pop,Class I
+57,Mira-Bhayandar,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+58,Thiruvananthapuram,Kerala,Municipal Corporation / Corporation.,pop,Class I
+59,Bhiwandi,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+60,Saharanpur,Uttar Pradesh,Municipal Corporation / Corporation,pop,Class I
+61,Guntur,Andhra Pradesh,Municipal Corporation / Corporation,pop,Class I
+62,Amravati,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+63,Bikaner,Rajasthan,Municipal Corporation / Corporation.,pop,Class I
+64,Noida,Uttar Pradesh,Census town,pop,Class I
+65,Jamshedpur,Jharkhand,Notified area committee / Notified Area Council ,pop,Class I
+66,Bhilai Nagar,Chhattisgarh,Municipal Corporation / Corporation,pop,Class I
+67,Cuttack,Odisha,Municipal Corporation / Corporation,pop,Class I
+68,Kochi,Kerala,Municipal Corporation / Corporation,pop,Class I
+69,Udaipur,Rajasthan,Municipal Corporation / Corporation,pop,Class I
+70,Bhavnagar,Gujarat,Municipal Corporation / Corporation,pop,Class I
+71,Dehradun,Uttarakhand,Municipal Corporation / Corporation,pop,Class I
+72,Asansol,West Bengal,Municipal Corporation / Corporation.,pop,Class I
+73,Nanded-Waghala,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+74,Ajmer,Rajasthan,Municipal Corporation / Corporation.,pop,Class I
+75,Jamnagar,Gujarat,Municipal Corporation / Corporation,pop,Class I
+76,Ujjain,Madhya Pradesh,Municipal Corporation / Corporation.,pop,Class I
+77,Sangli,Maharashtra,Urban Agglomeration,pop,
+78,Loni,Uttar Pradesh,Nagar Panchayat,pop,Class I
+79,Jhansi,Uttar Pradesh,Municipal Corporation / Corporation.,pop,Class I
+80,Pondicherry,Puducherry,Urban Agglomeration,pop,
+81,Nellore,Andhra Pradesh,Municipal Corporation / Corporation,pop,Class I
+82,Jammu,Jammu and Kashmir,Municipal Committee,pop,Class I
+83,Belagavi,Karnataka,Municipal Corporation / Corporation.,pop,Class I
+84,Raurkela,Odisha,Municipal Corporation / Corporation,pop,
+85,Mangaluru,Karnataka,Municipal Corporation / Corporation,pop,Class I
+86,Tirunelveli,Tamil Nadu,Municipal Corporation / Corporation.,pop,Class I
+87,Malegaon,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+88,Gaya,Bihar,Municipal Corporation / Corporation.,pop,Class I
+89,Tiruppur,Tamil Nadu,Municipal Corporation / Corporation,pop,Class I
+90,Davanagere,Karnataka,Municipal Corporation / Corporation.,pop,Class I
+91,Kozhikode,Kerala,Municipal Corporation / Corporation,pop,Class I
+92,Akola,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+93,Kurnool,Andhra Pradesh,Municipal Corporation / Corporation,pop,Class I
+94,Bokaro Steel City,Jharkhand,Census town,pop,Class I
+95,Rajahmundry,Andhra Pradesh,Urban Agglomeration,pop,
+96,Ballari,Karnataka,Municipal Corporation / Corporation.,pop,Class I
+97,Agartala,Tripura,Municipal Corporation / Corporation.,pop,Class I
+98,Bhagalpur,Bihar,Municipal Corporation / Corporation.,pop,Class I
+99,Latur,Maharashtra,Municipal Council,pop,Class I
+100,Dhule,Maharashtra,Municipal Corporation / Corporation,pop,Class I
+101,Korba,Chhattisgarh,Municipal Corporation / Corporation.,pop,Class I
+102,Bhilwara,Rajasthan,Municipality,pop,Class I
+103,Brahmapur,Odisha,Municipal Corporation / Corporation,pop,Class I
+104,Mysore,Karnatka,Municipal Corporation / Corporation.,pop,Class I
+105,Muzaffarpur,Bihar,Municipal Corporation / Corporation.,pop,Class I
+106,Ahmednagar,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+107,Kollam,Kerala,Municipal Corporation / Corporation,pop,Class I
+108,Raghunathganj,West Bengal,Municipality,pop,
+109,Bilaspur,Chhattisgarh,Municipal Corporation / Corporation,pop,Class I
+110,Shahjahanpur,Uttar Pradesh,Urban Agglomeration,pop,
+111,Thrissur,Kerala,Municipal Corporation / Corporation.,pop,Class I
+112,Alwar,Rajasthan,Municipal Council,pop,Class I
+113,Kakinada,Andhra Pradesh,Municipal Corporation / Corporation,pop,Class I
+114,Nizamabad,Telangana,Municipal Corporation / Corporation,pop,Class I
+115,Sagar,Madhya Pradesh,Urban Agglomeration,pop,
+116,Tumkur,Karnataka,City Municipal Council,pop,Class I
+117,Hisar,Haryana,Municipal Council,pop,Class I
+118,Rohtak,Haryana,Municipal Corporation / Corporation.,pop,
+119,Panipat,Haryana,Municipal Council,pop,Class I
+120,Darbhanga,Bihar,Municipal Corporation / Corporation.,pop,Class I
+121,Kharagpur,West Bengal,Municipality/Industrial Township,pop,Class I
+122,Aizawl,Mizoram,Notified Town,pop,Class I
+123,Ichalkaranji,Maharashtra,Municipal Council,pop,Class I
+124,Tirupati,Andhra Pradesh,Municipal Corporation / Corporation.,pop,Class I
+125,Karnal,Haryana,Municipal Council,pop,Class I
+126,Bathinda,Punjab,Municipal Corporation / Corporation,pop,Class I
+127,Rampur,Uttar Pradesh,Municipal board,pop,
+128,Shivamogga,Karnataka,City Municipal Council,pop,
+129,Ratlam,Madhya Pradesh,Urban Agglomeration,pop,
+130,Modinagar,Uttar Pradesh,Municipality,pop,
+131,Durg,Chhattisgarh,Municipal Corporation / Corporation,pop,Class I
+132,Shillong,Meghalaya,Urban Agglomeration,pop,
+133,Imphal,Manipur,Municipal Council,pop,Class I
+134,Hapur,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+135,Ranipet,Tamil Nadu,Urban Agglomeration,pop,
+136,Anantapur,Andhra Pradesh,Municipal Corporation / Corporation.,pop,Class I
+137,Arrah,Bihar,Municipal Corporation / Corporation.,pop,Class I
+138,Karimnagar,Telangana,Municipal Corporation / Corporation,pop,Class I
+139,Parbhani,Maharashtra,Municipal Council,pop,
+140,Etawah,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+141,Bharatpur,Rajasthan,Municipal Corporation / Corporation.,pop,Class I
+142,Begusarai,Bihar,Municipal Corporation / Corporation.,pop,Class I
+143,New Delhi,Delhi,Municipal Council,pop,Class I
+144,Chhapra,Bihar,Municipal Corporation / Corporation,pop,Class I
+145,Kadapa,Andhra Pradesh,Municipal Corporation / Corporation,pop,Class I
+146,Ramagundam,Telangana,Municipal Corporation / Corporation,pop,
+147,Pali,Rajasthan,Municipal Council,pop,Class I
+148,Satna,Madhya Pradesh,Urban Agglomeration,pop,
+149,Vizianagaram,Andhra Pradesh,Municipality,pop,Class I
+150,Katihar,Bihar,Municipal Corporation / Corporation,pop,Class I
+151,Hardwar,Uttarakhand,Nagar Palika Parishad,pop,Class I
+152,Sonipat,Haryana,Urban Agglomeration,pop,
+153,Nagercoil,Tamil Nadu,Municipality,pop,Class I
+154,Thanjavur,Tamil Nadu,Municipality,pop,Class I
+155,Murwara (Katni),Madhya Pradesh,Municipal Corporation / Corporation,pop,Class I
+156,Naihati,West Bengal,Municipality,pop,Class I
+157,Sambhal,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+158,Nadiad,Gujarat,Municipality,pop,Class I
+159,Yamunanagar,Haryana,Municipal Council,pop,Class I
+160,English Bazar,West Bengal,Municipality,pop,Class I
+161,Eluru,Andhra Pradesh,Municipal Corporation / Corporation.,pop,Class I
+162,Munger,Bihar,Municipal Corporation / Corporation,pop,Class I
+163,Panchkula,Haryana,Municipal Council,pop,Class I
+164,Raayachuru,Karnataka,City Municipal Council,pop,
+165,Panvel,Maharashtra,Municipal Council,pop,
+166,Deoghar,Jharkhand,Municipal Corporation / Corporation,pop,Class I
+167,Ongole,Andhra Pradesh,Municipality,pop,Class I
+168,Nandyal,Andhra Pradesh,Municipality,pop,Class I
+169,Morena,Madhya Pradesh,Municipality,pop,Class I
+170,Bhiwani,Haryana,Municipal Council,pop,Class I
+171,Porbandar,Gujarat,Urban Agglomeration,pop,
+172,Palakkad,Kerala,Urban Agglomeration,pop,
+173,Anand,Gujarat,Municipality,pop,Class I
+174,Purnia,Bihar,Municipal Corporation / Corporation.,pop,
+175,Baharampur,West Bengal,Municipality,pop,Class I
+176,Barmer,Rajasthan,Nagar Parishad,pop,Class I
+177,Morvi,Gujarat,Municipality,pop,Class I
+178,Orai,Uttar Pradesh,Nagar Palika Parishad.,pop,Class I
+179,Bahraich,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+180,Sikar,Rajasthan,Urban Agglomeration,pop,
+181,Vellore,Tamil Nadu,Municipal Corporation / Corporation.,pop,Class I
+182,Singrauli,Madhya Pradesh,Municipal Corporation / Corporation.,pop,
+183,Khammam,Telangana,Municipal Corporation / Corporation,pop,Class I
+184,Mahesana,Gujarat,Municipality,pop,Class I
+185,Silchar,Assam,Urban Agglomeration,pop,
+186,Sambalpur,Odisha,Municipal Corporation / Corporation.,pop,Class I
+187,Rewa,Madhya Pradesh,Municipal Corporation / Corporation.,pop,
+188,Unnao,Uttar Pradesh,Nagar Palika Parishad.,pop,Class I
+189,Hugli-Chinsurah,West Bengal,Municipality,pop,Class I
+190,Raiganj,West Bengal,Urban Agglomeration,pop,
+191,Phusro,Jharkhand,Urban Agglomeration,pop,
+192,Adityapur,Jharkhand,Nagar Panchayat.,pop,Class I
+193,Alappuzha,Kerala,Municipality,pop,Class I
+194,Bahadurgarh,Haryana,Municipal Council,pop,Class I
+195,Machilipatnam,Andhra Pradesh,Municipality,pop,Class I
+196,Rae Bareli,Uttar Pradesh,Municipal board,pop,
+197,Jalpaiguri,West Bengal,Municipal Corporation / Corporation,pop,Class I
+198,Bharuch,Gujarat,Municipality,pop,Class I
+199,Pathankot,Punjab,Urban Agglomeration,pop,
+200,Hoshiarpur,Punjab,Municipal Council,pop,Class I
+201,Baramula,Jammu and Kashmir,Municipal Council,pop,Class I
+202,Adoni,Andhra Pradesh,Municipality,pop,Class I
+203,Jind,Haryana,Municipal Council,pop,Class I
+204,Tonk,Rajasthan,Municipal Council,pop,Class I
+205,Tenali,Andhra Pradesh,Municipality,pop,Class I
+206,Kancheepuram,Tamil Nadu,Municipality,pop,Class I
+207,Vapi,Gujarat,Municipality,pop,Class I
+208,Sirsa,Haryana,Municipal Council,pop,
+209,Navsari,Gujarat,Municipality,pop,Class I
+210,Mahbubnagar,Telangana,Municipality,pop,Class I
+211,Puri,Odisha,Municipality,pop,
+212,Robertson Pet,Karnataka,Urban Agglomeration,pop,
+213,Erode,Tamil Nadu,Municipal Corporation / Corporation.,pop,Class I
+214,Batala,Punjab,Municipal Council,pop,Class I
+215,Haldwani-cum-Kathgodam,Uttarakhand,Nagar Palika Parishad,pop,Class I
+216,Vidisha,Madhya Pradesh,Municipality,pop,Class I
+217,Saharsa,Bihar,Nagar Panchayat,pop,Class I
+218,Thanesar,Haryana,Municipal Council,pop,Class I
+219,Chittoor,Andhra Pradesh,Municipal Corporation / Corporation.,pop,Class I
+220,Veraval,Gujarat,Municipality,pop,Class I
+221,Lakhimpur,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+222,Sitapur,Uttar Pradesh,Municipal board,pop,
+223,Hindupur,Andhra Pradesh,Municipality,pop,Class I
+224,Santipur,West Bengal,Municipality,pop,Class I
+225,Balurghat,West Bengal,Municipality,pop,Class I
+226,Ganjbasoda,Madhya Pradesh,Nagar Panchayat.,pop,Class I
+227,Moga,Punjab,Municipal Council,pop,Class I
+228,Proddatur,Andhra Pradesh,Municipality,pop,
+229,Srinagar,Uttarakhand,,pop,
+230,Medinipur,West Bengal,Municipality,pop,
+231,Habra,West Bengal,Municipality,pop,Class II
+232,Sasaram,Bihar,Nagar Panchayat,pop,Class I
+233,Hajipur,Bihar,Nagar Panchayat,pop,Class I
+234,Bhuj,Gujarat,Municipality,pop,Class I
+235,Shivpuri,Madhya Pradesh,Municipality,pop,
+236,Ranaghat,West Bengal,Urban Agglomeration,pop,
+237,Shimla,Himachal Pradesh,Urban Agglomeration,pop,
+238,Tiruvannamalai,Tamil Nadu,Municipality,pop,Class I
+239,Kaithal,Haryana,Municipal Council,pop,Class I
+240,Rajnandgaon,Chhattisgarh,Municipal Corporation / Corporation.,pop,
+241,Godhra,Gujarat,Municipality,pop,Class I
+242,Hazaribag,Jharkhand,Nagar Panchayat,pop,Class I
+243,Bhimavaram,Andhra Pradesh,Municipality,pop,Class I
+244,Mandsaur,Madhya Pradesh,Municipality,pop,Class I
+245,Dibrugarh,Assam,Municipal board,pop,Class I
+246,Kolar,Karnataka,City Municipal Council,pop,Class I
+247,Bankura,West Bengal,Municipality,pop,Class I
+248,Mandya,Karnataka,City Municipal Council,pop,Class I
+249,Dehri-on-Sone,Bihar,Nagar Panchayat,pop,Class I
+250,Madanapalle,Andhra Pradesh,Municipality,pop,Class I
+251,Malerkotla,Punjab,Municipal Council,pop,Class I
+252,Lalitpur,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+253,Bettiah,Bihar,Nagar Panchayat,pop,Class I
+254,Pollachi,Tamil Nadu,Urban Agglomeration,pop,
+255,Khanna,Punjab,Municipal Council,pop,Class I
+256,Neemuch,Madhya Pradesh,Municipality,pop,Class I
+257,Palwal,Haryana,Municipal Council,pop,Class I
+258,Palanpur,Gujarat,Municipality,pop,Class I
+259,Guntakal,Andhra Pradesh,Municipality,pop,Class I
+260,Nabadwip,West Bengal,Municipality,pop,Class I
+261,Udupi,Karnataka,City Municipal Council.,pop,Class I
+262,Jagdalpur,Chhattisgarh,Municipal Corporation / Corporation,pop,Class I
+263,Motihari,Bihar,Nagar Panchayat,pop,Class I
+264,Pilibhit,Uttar Pradesh,Municipal board,pop,
+265,Dimapur,Nagaland,Municipal Committee,pop,Class I
+266,Mohali,Punjab,Municipal Council,pop,
+267,Sadulpur,Rajasthan,Municipality,pop,
+268,Rajapalayam,Tamil Nadu,Municipality,pop,
+269,Dharmavaram,Andhra Pradesh,Municipality,pop,Class I
+270,Kashipur,Uttarakhand,Nagar Palika Parishad.,pop,Class I
+271,Sivakasi,Tamil Nadu,Urban Agglomeration,pop,
+272,Darjiling,West Bengal,Municipality,pop,Class I
+273,Chikkamagaluru,Karnataka,City Municipal Council,pop,Class I
+274,Gudivada,Andhra Pradesh,Municipality,pop,Class I
+275,Baleshwar Town,Odisha,Municipality,pop,Class I
+276,Mancherial,Telangana,Urban Agglomeration,pop,
+277,Srikakulam,Andhra Pradesh,Urban Agglomeration,pop,
+278,Adilabad,Telangana,Municipality,pop,Class I
+279,Yavatmal,Maharashtra,Municipal Council,pop,Class I
+280,Barnala,Punjab,Municipal Council,pop,Class I
+281,Nagaon,Assam,Municipal board,pop,Class I
+282,Narasaraopet,Andhra Pradesh,Municipality,pop,Class I
+283,Raigarh,Chhattisgarh,Urban Agglomeration,pop,
+284,Roorkee,Uttarakhand,Urban Agglomeration,pop,
+285,Valsad,Gujarat,Municipality,pop,Class I
+286,Ambikapur,Chhattisgarh,Municipal Corporation / Corporation.,pop,Class I
+287,Giridih,Jharkhand,Town Panchayat,pop,Class I
+288,Chandausi,Uttar Pradesh,Nagar Palika Parishad,pop,Class I
+289,Purulia,West Bengal,Municipality,pop,
+290,Patan,Gujarat,Urban Agglomeration,pop,
+291,Bagaha,Bihar,Nagar Panchayat,pop,Class I
+292,Hardoi ,Uttar Pradesh,Municipality,pop,Class II
+293,Achalpur,Maharashtra,Municipal Council,pop,Class I
+294,Osmanabad,Maharashtra,Municipal Council,pop,Class I
+295,Deesa,Gujarat,,pop,Class I
+296,Nandurbar,Maharashtra,Municipal Council,pop,Class I
+297,Azamgarh,Uttar Pradesh,P.,pop,Class I
+298,Ramgarh,Jharkhand,Urban Agglomeration,pop,
+299,Firozpur,Punjab,Municipal Council,pop,Class I
+300,Baripada Town,Odisha,Municipality,pop,Class I
+301,Karwar,Karnataka,City Municipal Council,pop,Class I
+302,Siwan,Bihar,Municipality,pop,
+303,Rajampet,Andhra Pradesh,Municipality,pop,
+304,Pudukkottai,Tamil Nadu,Municipality,pop,
+305,Anantnag,Jammu and Kashmir,Municipal Council,pop,Class I
+306,Tadpatri,Andhra Pradesh,Municipality,pop,Class I
+307,Satara,Maharashtra,Municipal Council,pop,
+308,Bhadrak,Odisha,Municipality,pop,Class I
+309,Kishanganj,Bihar,Nagar Panchayat,pop,Class I
+310,Suryapet,Telangana,Urban Agglomeration,pop,
+311,Wardha,Maharashtra,Municipal Council,pop,Class I
+312,Ranebennuru,Karnataka,City Municipal Council,pop,
+313,Amreli,Gujarat,Municipality,pop,Class I
+314,Neyveli (TS),Tamil Nadu,Census town,pop,Class I
+315,Jamalpur,Bihar,Nagar Panchayat,pop,Class I
+316,Marmagao,Goa,Urban Agglomeration,pop,
+317,Udgir,Maharashtra,Municipal Council,pop,Class I
+318,Tadepalligudem,Andhra Pradesh,Municipality,pop,Class I
+319,Nagapattinam,Tamil Nadu,Municipality,pop,Class I
+320,Buxar,Bihar,Nagar Panchayat,pop,Class I
+321,Aurangabad,Maharashtra,Municipal Corporation / Corporation.,pop,Class I
+322,Jehanabad,Bihar,Nagar Panchayat,pop,Class I
+323,Phagwara,Punjab,Urban Agglomeration,pop,
+324,Khair,Uttar Pradesh,Nagar Palika Parishad,pop,Class II
+325,Sawai Madhopur,Rajasthan,Urban Agglomeration,pop,
+326,Kapurthala,Punjab,Municipal Council,pop,Class I
+327,Chilakaluripet,Andhra Pradesh,Municipality,pop,Class I
+328,Aurangabad,Bihar,Nagar Panchayat.,pop,Class I
+329,Malappuram,Kerala,Municipality,pop,Class I
+330,Rewari,Haryana,Municipal Council,pop,
+331,Nagaur,Rajasthan,Municipality,pop,Class I
+332,Sultanpur,Uttar Pradesh,Municipal board,pop,
+333,Nagda,Madhya Pradesh,Municipality,pop,Class I
+334,Port Blair,Andaman and Nicobar Islands,Municipal Council,pop,
+335,Lakhisarai,Bihar,Nagar Panchayat,pop,Class II
+336,Panaji,Goa,Urban Agglomeration,pop,
+337,Tinsukia,Assam,Municipal board.,pop,Class II
+338,Itarsi,Madhya Pradesh,Municipality,pop,Class II
+339,Kohima,Nagaland,Municipal Committee,pop,Class II
+340,Balangir,Odisha,Municipality,pop,Class II
+341,Nawada,Bihar,Nagar Parishad,pop,Class II
+342,Jharsuguda,Odisha,Municipality,pop,Class II
+343,Jagtial,Telangana,Municipality,pop,Class II
+344,Viluppuram,Tamil Nadu,Municipality,pop,Class II
+345,Amalner,Maharashtra,Municipal Council,pop,Class II
+346,Zirakpur,Punjab,Municipal Council,pop,Class II
+347,Tanda,Uttar Pradesh,Municipal board,pop,Class II
+348,Tiruchengode,Tamil Nadu,Municipality,pop,Class II
+349,Nagina,Uttar Pradesh,Nagar Palika Parishad,pop,Class II
+350,Yemmiganur,Andhra Pradesh,Municipality,pop,Class II
+351,Vaniyambadi,Tamil Nadu,Municipality,pop,Class II
+352,Sarni,Madhya Pradesh,Municipality,pop,
+353,Theni Allinagaram,Tamil Nadu,Municipality,pop,Class II
+354,Margao,Goa,Urban Agglomeration,pop,
+355,Akot,Maharashtra,Municipal Council,pop,Class II
+356,Sehore,Madhya Pradesh,Urban Agglomeration,pop,
+357,Mhow Cantonment,Madhya Pradesh,Urban Agglomeration,pop,
+358,Kot Kapura,Punjab,Municipal Council,pop,Class II
+359,Makrana,Rajasthan,Urban Agglomeration,pop,
+360,Pandharpur,Maharashtra,Municipal Council,pop,
+361,Miryalaguda,Telangana,Urban Agglomeration,pop,
+362,Shamli,Uttar Pradesh,Municipal board,pop,
+363,Seoni,Madhya Pradesh,Municipality,pop,
+364,Ranibennur,Karnataka,City Municipal Council,pop,
+365,Kadiri,Andhra Pradesh,Municipality,pop,Class II
+366,Shrirampur,Maharashtra,Urban Agglomeration,pop,
+367,Rudrapur,Uttarakhand,Municipal board,pop,
+368,Parli,Maharashtra,Municipal Council,pop,
+369,Najibabad,Uttar Pradesh,Municipal board,pop,Class II
+370,Nirmal,Telangana,Municipality,pop,Class II
+371,Udhagamandalam,Tamil Nadu,Municipality,pop,Class II
+372,Shikohabad,Uttar Pradesh,Municipal board,pop,
+373,Jhumri Tilaiya,Jharkhand,Nagar Panchayat,pop,Class II
+374,Aruppukkottai,Tamil Nadu,Municipality,pop,Class II
+375,Ponnani,Kerala,Municipality,pop,
+376,Jamui,Bihar,Nagar Panchayat,pop,Class II
+377,Sitamarhi,Bihar,Urban Agglomeration,pop,
+378,Chirala,Andhra Pradesh,Municipality,pop,Class II
+379,Anjar,Gujarat,Municipality,pop,Class II
+380,Karaikal,Puducherry,Municipality,pop,Class II
+381,Hansi,Haryana,Municipal Council,pop,Class II
+382,Anakapalle,Andhra Pradesh,Municipality,pop,Class II
+383,Mahasamund,Chhattisgarh,Municipality,85650,Class II
+384,Faridkot,Punjab,Municipal Council,pop,Class II
+385,Saunda,Jharkhand,Census town,pop,
+386,Dhoraji,Gujarat,Municipality,pop,Class II
+387,Paramakudi,Tamil Nadu,Municipality,pop,
+388,Balaghat,Madhya Pradesh,Municipality,pop,Class II
+389,Sujangarh,Rajasthan,Municipality,pop,
+390,Khambhat,Gujarat,Municipality,pop,Class II
+391,Muktsar,Punjab,Municipal Council,pop,
+392,Rajpura,Punjab,Municipal Council,pop,
+393,Kavali,Andhra Pradesh,Municipality,pop,Class II
+394,Dhamtari,Chhattisgarh,Municipality,pop,Class II
+395,Ashok Nagar,Madhya Pradesh,Municipality,pop,Class II
+396,Sardarshahar,Rajasthan,Municipality,pop,
+397,Mahuva,Gujarat,Urban Agglomeration,pop,
+398,Bargarh,Odisha,Municipality,pop,Class II
+399,Kamareddy,Telangana,Municipality,pop,Class II
+400,Sahibganj,Jharkhand,Municipality,pop,
+401,Kothagudem,Telangana,Municipality,pop,Class II
+402,Ramanagaram,Karnataka,City Municipal Council,pop,
+403,Gokak,Karnataka,City Municipal Council,pop,Class II
+404,Tikamgarh,Madhya Pradesh,Municipality,pop,Class II
+405,Araria,Bihar,Nagar Panchayat.,pop,Class II
+406,Rishikesh,Uttarakhand,Urban Agglomeration,pop,
+407,Shahdol,Madhya Pradesh,Municipality,pop,
+408,Medininagar (Daltonganj),Jharkhand,Nagar Parishad,pop,Class II
+409,Arakkonam,Tamil Nadu,Municipality,pop,Class II
+410,Washim,Maharashtra,Municipal Council,pop,Class II
+411,Sangrur,Punjab,Municipal Council,pop,
+412,Bodhan,Telangana,Municipality,pop,Class II
+413,Fazilka,Punjab,Municipal Council,pop,Class II
+414,Palacole,Andhra Pradesh,Urban Agglomeration,pop,
+415,Keshod,Gujarat,Municipality,pop,Class II
+416,Sullurpeta,Andhra Pradesh,Municipality,pop,
+417,Wadhwan,Gujarat,Municipality,pop,Class II
+418,Gurdaspur,Punjab,Municipal Council,pop,Class II
+419,Vatakara,Kerala,Municipality,pop,Class II
+420,Tura,Meghalaya,Municipality,pop,Class II
+421,Narnaul,Haryana,Municipal Council,pop,Class II
+422,Kharar,Punjab,Municipal Council,pop,Class II
+423,Yadgir,Karnataka,City Municipal Council,pop,Class II
+424,Ambejogai,Maharashtra,Municipal Council,pop,Class II
+425,Ankleshwar,Gujarat,Municipality,pop,Class II
+426,Savarkundla,Gujarat,Municipality,pop,
+427,Paradip,Odisha,Notified area committee / Notified Area Council,pop,
+428,Virudhachalam,Tamil Nadu,Municipality,pop,Class II
+429,Kanhangad,Kerala,Municipality,pop,Class II
+430,Kadi,Gujarat,Municipality,pop,Class II
+431,Srivilliputhur,Tamil Nadu,Municipality,pop,
+432,Gobindgarh,Punjab,Municipal Council,pop,Class II
+433,Tindivanam,Tamil Nadu,Municipality,pop,Class II
+434,Mansa,Punjab,Municipal Council,pop,
+435,Taliparamba,Kerala,Municipality,pop,Class II
+436,Manmad,Maharashtra,Municipal Council,pop,
+437,Tanuku,Andhra Pradesh,Municipality,pop,Class II
+438,Rayachoti,Andhra Pradesh,Census town,pop,
+439,Virudhunagar,Tamil Nadu,Municipality,pop,Class II
+440,Koyilandy,Kerala,Municipality,pop,Class II
+441,Jorhat,Assam,Municipal board,pop,Class II
+442,Karur,Tamil Nadu,Municipality,pop,Class II
+443,Valparai,Tamil Nadu,Municipality,pop,Class II
+444,Srikalahasti,Andhra Pradesh,Municipality,pop,
+445,Neyyattinkara,Kerala,Municipality,pop,Class II
+446,Bapatla,Andhra Pradesh,Municipality,pop,Class II
+447,Fatehabad,Haryana,Municipal Council,pop,Class II
+448,Malout,Punjab,Municipal Council,pop,
+449,Sankarankovil,Tamil Nadu,Municipality,pop,Class II
+450,Tenkasi,Tamil Nadu,Municipality,pop,Class II
+451,Ratnagiri,Maharashtra,Municipal Council,pop,
+452,Rabkavi Banhatti,Karnataka,City Municipal Council,pop,
+453,Sikandrabad,Uttar Pradesh,Municipal board,pop,
+454,Chaibasa,Jharkhand,Nagar Palika Parishad,pop,Class II
+455,Chirmiri,Chhattisgarh,Municipal Corporation / Corporation.,pop,Class II
+456,Palwancha,Telangana,Municipality,pop,
+457,Bhawanipatna,Odisha,Municipality,pop,Class II
+458,Kayamkulam,Kerala,Municipality,pop,Class II
+459,Pithampur,Madhya Pradesh,Nagar Panchayat,pop,
+460,Nabha,Punjab,Municipal Council,pop,Class II
+461,pop,
+462,Dhenkanal,Odisha,Municipality,pop,Class II
+463,Uran Islampur,Maharashtra,Municipal Council,pop,Class II
+464,Gopalganj,Bihar,Nagar Panchayat,pop,Class II
+465,Bongaigaon City,Assam,Municipal board,pop,Class II
+466,Palani,Tamil Nadu,Municipality,pop,
+467,Pusad,Maharashtra,Municipal Council,pop,
+468,Sopore,Jammu and Kashmir,Urban Agglomeration,pop,
+469,Pilkhuwa,Uttar Pradesh,Municipal board,pop,
+470,Tarn Taran,Punjab,Municipal Council,pop,Class II
+471,Renukoot,Uttar Pradesh,Urban Agglomeration,pop,
+472,Mandamarri,Telangana,Municipality,pop,
+473,Shahabad,Karnataka,Urban Agglomeration,pop,
+474,Barbil,Odisha,Municipality,pop,Class II
+475,Koratla,Telangana,Municipality,pop,Class II
+476,Madhubani,Bihar,Municipality,pop,
+477,Arambagh,West Bengal,Municipality,pop,Class II
+478,Gohana,Haryana,Municipal Committee,pop,Class II
+479,Ladnu,Rajasthan,Municipality,pop,Class II
+480,Pattukkottai,Tamil Nadu,Municipality,pop,
+481,Sirsi,Karnataka,Urban Agglomeration,pop,
+482,Sircilla,Telangana,Municipality,pop,
+483,Tamluk,West Bengal,Municipality,pop,Class II
+484,Jagraon,Punjab,Municipal Council,pop,Class II
+485,AlipurdUrban Agglomerationr,West Bengal,Municipality,pop,Class II
+486,Alirajpur,Madhya Pradesh,Municipality,pop,Class II
+487,Tandur,Telangana,Municipality,pop,Class II
+488,Naidupet,Andhra Pradesh,Municipality,pop,Class II
+489,Tirupathur,Tamil Nadu,Municipality,pop,Class II
+490,Tohana,Haryana,Municipal Committee,pop,Class II
+491,Ratangarh,Rajasthan,Municipality,pop,
+492,Dhubri,Assam,Municipal board,pop,Class II
+493,Masaurhi,Bihar,Nagar Parishad,pop,
+494,Visnagar,Gujarat,Municipality,pop,Class II
+495,Vrindavan,Uttar Pradesh,Municipal board,pop,Class II
+496,Nokha,Rajasthan,Municipality,pop,Class II
+497,Nagari,Andhra Pradesh,Municipality,pop,Class II
+498,Narwana,Haryana,Municipal Council,pop,Class II
+499,Ramanathapuram,Tamil Nadu,Municipality,pop,
+500,Ujhani,Uttar Pradesh,Nagar Palika Parishad.,pop,Class II
+501,Samastipur,Bihar,Urban Agglomeration,pop,
+502,Laharpur,Uttar Pradesh,Nagar Palika Parishad,pop,Class II
+503,Sangamner,Maharashtra,Municipal Council,pop,
+504,Nimbahera,Rajasthan,Municipality,pop,Class II
+505,Siddipet,Telangana,Municipality,pop,
+506,Suri,West Bengal,Municipality,pop,
+507,Diphu,Assam,Town Committee / Town Area Committee,pop,Class II
+508,Jhargram,West Bengal,Municipality,pop,Class II
+509,Shirpur-Warwade,Maharashtra,Municipal Council,pop,
+510,Tilhar,Uttar Pradesh,Nagar Palika Parishad.,pop,Class II
+511,Sindhnur,Karnataka,Town Municipal Council,pop,
+512,Udumalaipettai,Tamil Nadu,Municipality,pop,Class II
+513,Malkapur,Maharashtra,Municipal Council,pop,
+514,Wanaparthy,Telangana,Municipality,pop,Class II
+515,Gudur,Andhra Pradesh,Municipality,pop,Class II
+516,Kendujhar,Odisha,Municipality,pop,Class II
+517,Mandla,Madhya Pradesh,Urban Agglomeration,pop,
+518,Mandi,Himachal Pradesh,Municipal Council,pop,
+519,Nedumangad,Kerala,Municipality,pop,Class II
+520,North Lakhimpur,Assam,Municipal board,pop,Class II
+521,Vinukonda,Andhra Pradesh,Municipality,pop,Class II
+522,Tiptur,Karnataka,City Municipal Council,pop,Class II
+523,Gobichettipalayam,Tamil Nadu,Municipality,pop,Class II
+524,Sunabeda,Odisha,Notified area committee / Notified Area Council,pop,
+525,Wani,Maharashtra,Municipal Council,pop,Class II
+526,Upleta,Gujarat,Municipality,pop,Class II
+527,Narasapuram,Andhra Pradesh,Municipality,pop,Class II
+528,Nuzvid,Andhra Pradesh,Municipality,pop,Class II
+529,Tezpur,Assam,Municipal board.,pop,Class II
+530,Una,Gujarat,Municipality,pop,Class II
+531,Markapur,Andhra Pradesh,Municipality,pop,
+532,Sheopur,Madhya Pradesh,Urban Agglomeration,pop,
+533,Thiruvarur,Tamil Nadu,Municipality,pop,Class II
+534,Sidhpur,Gujarat,Urban Agglomeration,pop,
+535,Sahaswan,Uttar Pradesh,Municipal board,pop,
+536,Suratgarh,Rajasthan,Municipality,pop,
+537,Shajapur,Madhya Pradesh,Urban Agglomeration,pop,
+538,Rayagada,Odisha,Municipality,pop,
+539,Lonavla,Maharashtra,Municipal Council,pop,Class II
+540,Ponnur,Andhra Pradesh,Municipality,pop,
+541,Kagaznagar,Telangana,Municipality,pop,Class II
+542,Gadwal,Telangana,Municipality,pop,Class II
+543,Bhatapara,Chhattisgarh,Municipality,pop,Class II
+544,Kandukur,Andhra Pradesh,Municipality,pop,Class II
+545,Sangareddy,Telangana,Municipality,pop,
+546,Unjha,Gujarat,Municipality,pop,Class II
+547,Lunglei,Mizoram,Notified Town,pop,Class II
+548,Karimganj,Assam,Municipal board,pop,Class II
+549,Kannur,Kerala,Municipality,pop,Class II
+550,Bobbili,Andhra Pradesh,Municipality,pop,Class II
+551,Mokameh,Bihar,Municipality,pop,
+552,Talegaon Dabhade,Maharashtra,Municipal Council,pop,Class II
+553,Anjangaon,Maharashtra,Municipal Council,pop,Class II
+554,Mangrol,Gujarat,Urban Agglomeration,pop,
+555,Sunam,Punjab,Urban Agglomeration,pop,
+556,Gangarampur,West Bengal,Municipality,pop,Class II
+557,Thiruvallur,Tamil Nadu,Municipality,pop,Class II
+558,Tirur,Kerala,Municipality,pop,Class II
+559,Rath,Uttar Pradesh,Municipal board,pop,
+560,Jatani,Odisha,Municipality,pop,Class II
+561,Viramgam,Gujarat,Municipality,pop,Class II
+562,Rajsamand,Rajasthan,Municipality,pop,
+563,Yanam,Puducherry,Municipality,pop,Class II
+564,Kottayam,Kerala,Municipality,pop,Class II
+565,Panruti,Tamil Nadu,Municipality,pop,
+566,Dhuri,Punjab,Municipal Council,pop,Class II
+567,Namakkal,Tamil Nadu,Municipality,pop,Class II
+568,Kasaragod,Kerala,Municipality,pop,Class II
+569,Modasa,Gujarat,Municipality,pop,
+570,Rayadurg,Andhra Pradesh,Municipality,pop,
+571,Supaul,Bihar,Municipality,pop,
+572,Kunnamkulam,Kerala,Municipality,pop,Class II
+573,Umred,Maharashtra,Municipal Council,pop,Class II
+574,Bellampalle,Telangana,Municipality,pop,Class II
+575,Sibsagar,Assam,Municipal board,pop,
+576,Mandi Dabwali,Haryana,Municipal Committee,pop,
+577,Ottappalam,Kerala,Municipality,pop,Class II
+578,Dumraon,Bihar,Notified area committee / Notified Area Council,pop,Class II
+579,Samalkot,Andhra Pradesh,Municipality,pop,
+580,Jaggaiahpet,Andhra Pradesh,Municipality,pop,Class II
+581,Goalpara,Assam,Municipal board,pop,Class II
+582,Tuni,Andhra Pradesh,Municipality,pop,Class II
+583,Lachhmangarh,Rajasthan,Municipality,pop,Class II
+584,Bhongir,Telangana,Municipality,pop,Class II
+585,Amalapuram,Andhra Pradesh,Municipality,pop,Class II
+586,Firozpur Cantt.,Punjab,Cantonment Board / Cantonment,pop,Class II
+587,Vikarabad,Telangana,Municipality,pop,Class II
+588,Thiruvalla,Kerala,Municipality,pop,Class II
+589,Sherkot,Uttar Pradesh,Municipal board,pop,
+590,Palghar,Maharashtra,Municipal Council,pop,
+591,Shegaon,Maharashtra,Municipal Council,pop,
+592,Jangaon,Telangana,Municipality,pop,Class II
+593,Bheemunipatnam,Andhra Pradesh,Municipality,pop,Class II
+594,Panna,Madhya Pradesh,Urban Agglomeration,pop,
+595,Thodupuzha,Kerala,Municipality,pop,Class II
+596,KathUrban Agglomeration,Jammu and Kashmir,Municipal Council,pop,Class II
+597,Palitana,Gujarat,Municipality,pop,
+598,Arwal,Bihar,Nagar Panchayat.,pop,Class II
+599,Venkatagiri,Andhra Pradesh,Municipality,pop,Class II
+600,Kalpi,Uttar Pradesh,Nagar Palika Parishad,pop,Class II
+601,Rajgarh (Churu),Rajasthan,Urban Agglomeration,pop,
+602,Sattenapalle,Andhra Pradesh,Municipality,pop,
+603,Arsikere,Karnataka,Town Municipal Council,pop,Class II
+604,Ozar,Maharashtra,Census town,pop,Class II
+605,Thirumangalam,Tamil Nadu,Municipality,pop,Class II
+606,Petlad,Gujarat,Municipality,pop,
+607,Nasirabad,Rajasthan,Cantonment Board / Cantonment,pop,Class II
+608,Phaltan,Maharashtra,Municipal Council,pop,
+609,Rampurhat,West Bengal,Municipality,pop,
+610,Nanjangud,Karnataka,Town Municipal Council,pop,Class II
+611,Forbesganj,Bihar,Municipality,pop,Class II
+612,Tundla,Uttar Pradesh,Nagar Palika Parishad,pop,Class II
+613,BhabUrban Agglomeration,Bihar,Nagar Panchayat,pop,Class II
+614,Sagara,Karnataka,Town Municipal Council,pop,
+615,Pithapuram,Andhra Pradesh,Municipality,pop,
+616,Sira,Karnataka,Town Municipal Council,pop,
+617,Bhadrachalam,Telangana,Census town,pop,Class II
+618,Charkhi Dadri,Haryana,Nagar Palika Parishad,pop,Class III
+619,Chatra,Jharkhand,Municipality,pop,Class III
+620,Palasa Kasibugga,Andhra Pradesh,Nagar Panchayat,pop,
+621,Nohar,Rajasthan,Municipality,pop,Class III
+622,Yevla,Maharashtra,Municipal Council,pop,Class III
+623,Sirhind Fatehgarh Sahib,Punjab,Municipal Council,pop,
+624,Bhainsa,Telangana,Municipality,pop,Class III
+625,Parvathipuram,Andhra Pradesh,Municipality,pop,
+626,Shahade,Maharashtra,Municipal Council,pop,
+627,Chalakudy,Kerala,Municipality,pop,Class III
+628,Narkatiaganj,Bihar,Nagar Parishad,pop,Class III
+629,Kapadvanj,Gujarat,Municipality,pop,Class III
+630,Macherla,Andhra Pradesh,Municipality,pop,
+631,Raghogarh-Vijaypur,Madhya Pradesh,Municipality,pop,
+632,Rupnagar,Punjab,Municipal Council,pop,
+633,Naugachhia,Bihar,Nagar Panchayat,pop,Class III
+634,Sendhwa,Madhya Pradesh,Municipality,pop,
+635,Byasanagar,Odisha,Municipality,pop,Class III
+636,Sandila,Uttar Pradesh,Municipal board,pop,
+637,Gooty,Andhra Pradesh,Census town,pop,Class III
+638,Salur,Andhra Pradesh,Municipality,pop,
+639,Nanpara,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+640,Sardhana,Uttar Pradesh,Municipal board,pop,
+641,Vita,Maharashtra,Municipal Council,pop,Class III
+642,Gumia,Jharkhand,Census town,pop,Class III
+643,Puttur,Karnataka,Town Municipal Council,pop,
+644,Jalandhar Cantt.,Punjab,Cantonment Board / Cantonment,pop,Class III
+645,Nehtaur,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+646,Changanassery,Kerala,Municipality,pop,Class III
+647,Mandapeta,Andhra Pradesh,Municipality,pop,
+648,Dumka,Jharkhand,Notified area committee / Notified Area Council,pop,Class III
+649,Seohara,Uttar Pradesh,Urban Agglomeration,pop,
+650,Umarkhed,Maharashtra,Municipal Council,pop,Class III
+651,Madhupur,Jharkhand,Municipality,pop,
+652,Vikramasingapuram,Tamil Nadu,Municipality,pop,Class III
+653,Punalur,Kerala,Municipality,pop,
+654,Kendrapara,Odisha,Municipality,pop,Class III
+655,Sihor,Gujarat,Municipality,pop,
+656,Nellikuppam,Tamil Nadu,Municipality,pop,Class III
+657,Samana,Punjab,Municipal Council,pop,
+658,Warora,Maharashtra,Municipal Council,pop,Class III
+659,Nilambur,Kerala,Census town,pop,Class III
+660,Rasipuram,Tamil Nadu,Municipality,pop,
+661,Ramnagar,Uttarakhand,Municipal board,pop,
+662,Jammalamadugu,Andhra Pradesh,Nagar Panchayat,pop,Class III
+663,Nawanshahr,Punjab,Municipal Council,pop,Class III
+664,Thoubal,Manipur,Municipal Council,pop,Class III
+665,Athni,Karnataka,Town Municipal Council,pop,Class III
+666,Cherthala,Kerala,Municipality,pop,Class III
+667,Sidhi,Madhya Pradesh,Municipality,pop,
+668,Farooqnagar,Telangana,Census town.,pop,Class III
+669,Peddapuram,Andhra Pradesh,Municipality,pop,
+670,Chirkunda,Jharkhand,Nagar Panchayat,pop,Class III
+671,Pachora,Maharashtra,Municipal Council,pop,
+672,Madhepura,Bihar,Municipality,pop,
+673,Pithoragarh,Uttarakhand,Municipal board,pop,
+674,Tumsar,Maharashtra,Municipal Council,pop,Class III
+675,Phalodi,Rajasthan,Urban Agglomeration,pop,
+676,Tiruttani,Tamil Nadu,Municipality,pop,Class III
+677,Rampura Phul,Punjab,Urban Agglomeration,pop,
+678,Perinthalmanna,Kerala,Municipality,pop,
+679,Padrauna,Uttar Pradesh,Municipal board,pop,
+680,Pipariya,Madhya Pradesh,Urban Agglomeration,pop,
+681,Dalli-Rajhara,Chhattisgarh,Municipality,pop,Class III
+682,Punganur,Andhra Pradesh,Nagar Panchayat,pop,
+683,Mattannur,Kerala,Municipality,pop,
+684,Mathura,Uttar Pradesh,Municipality,pop,
+685,Thakurdwara,Uttar Pradesh,Nagar Palika Parishad.,pop,Class III
+686,Nandivaram-Guduvancheri,Tamil Nadu,Town Panchayat,pop,Class III
+687,Mulbagal,Karnataka,Town Municipal Council,pop,
+688,Manjlegaon,Maharashtra,Municipal Council,pop,
+689,Wankaner,Gujarat,Municipality,pop,Class III
+690,Sillod,Maharashtra,Municipal Council,pop,
+691,Nidadavole,Andhra Pradesh,Municipality,pop,Class III
+692,Surapura,Karnataka,Town Municipal Council,pop,
+693,Rajagangapur,Odisha,Municipality,pop,
+694,Sheikhpura,Bihar,Municipality,pop,
+695,Parlakhemundi,Odisha,Municipality,pop,
+696,Kalimpong,West Bengal,Municipality,pop,Class III
+697,Siruguppa,Karnataka,Town Panchayat,pop,
+698,Arvi,Maharashtra,Municipal Council,pop,Class III
+699,Limbdi,Gujarat,Municipality,pop,Class III
+700,Barpeta,Assam,Municipal board,pop,Class III
+701,Manglaur,Uttarakhand,Municipal board,pop,
+702,Repalle,Andhra Pradesh,Municipality,pop,
+703,Mudhol,Karnataka,Town Municipal Council,pop,
+704,Shujalpur,Madhya Pradesh,Municipality,pop,
+705,Mandvi,Gujarat,Municipality,pop,
+706,Thangadh,Gujarat,Municipality,pop,Class III
+707,Sironj,Madhya Pradesh,Municipality,pop,
+708,Nandura,Maharashtra,Municipal Council,pop,Class III
+709,Shoranur,Kerala,Municipality,pop,
+710,Nathdwara,Rajasthan,Municipality,pop,Class III
+711,Periyakulam,Tamil Nadu,Municipality,pop,
+712,Sultanganj,Bihar,Notified area,pop,
+713,Medak,Telangana,Nagar Panchayat,pop,
+714,Narayanpet,Telangana,Nagar Panchayat,pop,Class III
+715,Raxaul Bazar,Bihar,Municipality,pop,
+716,Rajauri,Jammu and Kashmir,Notified area committee / Notified Area Council,pop,
+717,Pernampattu,Tamil Nadu,Town Panchayat,pop,
+718,Nainital,Uttarakhand,Nagar Palika Parishad,pop,Class III
+719,Ramachandrapuram,Andhra Pradesh,Municipality,pop,
+720,Vaijapur,Maharashtra,Municipal Council,pop,Class III
+721,Nangal,Punjab,Municipal Council,pop,Class III
+722,Sidlaghatta,Karnataka,Town Municipal Council,pop,
+723,Punch,Jammu and Kashmir,Municipal board,pop,
+724,Pandhurna,Madhya Pradesh,Municipality,pop,
+725,Wadgaon Road,Maharashtra,Census town.,pop,Class III
+726,Talcher,Odisha,Municipality,pop,Class III
+727,Varkala,Kerala,Municipality,pop,Class III
+728,Pilani,Rajasthan,Urban Agglomeration,pop,
+729,Nowgong,Madhya Pradesh,Municipality,pop,Class III
+730,Naila Janjgir,Chhattisgarh,Municipality,pop,Class III
+731,Mapusa,Goa,Municipal Council,pop,
+732,Vellakoil,Tamil Nadu,Municipality,pop,Class III
+733,Merta City,Rajasthan,Municipality,pop,
+734,Sivaganga,Tamil Nadu,Urban Agglomeration,pop,
+735,Mandideep,Madhya Pradesh,Municipality,pop,
+736,Sailu,Maharashtra,Municipal Council,pop,
+737,Vyara,Gujarat,Municipality,pop,Class III
+738,Kovvur,Andhra Pradesh,Municipality,pop,Class III
+739,Vadalur,Tamil Nadu,Town Panchayat,pop,Class III
+740,Nawabganj,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+741,Padra,Gujarat,Urban Agglomeration,pop,
+742,Sainthia,West Bengal,Municipality,pop,
+743,Siana,Uttar Pradesh,Municipal board,pop,
+744,Shahpur,Karnataka,Town Municipal Council,pop,
+745,Sojat,Rajasthan,Municipality,pop,
+746,Noorpur,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+747,Paravoor,Kerala,Municipality,pop,
+748,Murtijapur,Maharashtra,Municipal Council,pop,
+749,Ramnagar,Bihar,Notified area,pop,
+750,Sundargarh,Odisha,Municipality,pop,
+751,Taki,West Bengal,Municipality,pop,Class III
+752,Saundatti-Yellamma,Karnataka,Town Municipal Council,pop,
+753,Pathanamthitta,Kerala,Municipality,pop,
+754,Wadi,Karnataka,Town Municipal Council,pop,Class III
+755,Rameshwaram,Tamil Nadu,Town Panchayat,pop,
+756,Tasgaon,Maharashtra,Municipal Council,pop,Class III
+757,Sikandra Rao,Uttar Pradesh,Municipal board,pop,
+758,Sihora,Madhya Pradesh,Municipality,pop,
+759,Tiruvethipuram,Tamil Nadu,Municipality,pop,Class III
+760,Tiruvuru,Andhra Pradesh,Municipality,pop,Class III
+761,Mehkar,Maharashtra,Municipal Council,pop,
+762,Peringathur,Kerala,Census town,pop,
+763,Perambalur,Tamil Nadu,Town Panchayat,pop,
+764,Manvi,Karnataka,Town Municipal Council,pop,
+765,Zunheboto,Nagaland,Town Committee / Town Area Committee,pop,Class III
+766,Mahnar Bazar,Bihar,Municipality,pop,
+767,Attingal,Kerala,Municipality,pop,Class III
+768,Shahbad,Haryana,Municipal Committee,pop,
+769,Puranpur,Uttar Pradesh,Municipal board,pop,
+770,Nelamangala,Karnataka,Town Municipal Council,pop,Class III
+771,Nakodar,Punjab,Municipal Council,pop,Class III
+772,Lunawada,Gujarat,Municipality,pop,Class III
+773,Murshidabad,West Bengal,Municipality,pop,
+774,Mahe,Puducherry,Municipality,pop,
+775,Lanka,Assam,Municipal board,pop,Class III
+776,Rudauli,Uttar Pradesh,Municipal board,pop,
+777,Tuensang,Nagaland,Town Committee / Town Area Committee,pop,Class III
+778,Lakshmeshwar,Karnataka,Town Municipal Council,pop,Class III
+779,Zira,Punjab,Municipal Council,pop,Class III
+780,Yawal,Maharashtra,Municipal Council,pop,Class III
+781,Thana Bhawan,Uttar Pradesh,Nagar Panchayat.,pop,Class III
+782,Ramdurg,Karnataka,Urban Agglomeration,pop,
+783,Pulgaon,Maharashtra,Municipal Council,pop,
+784,Sadasivpet,Telangana,Municipality,pop,
+785,Nargund,Karnataka,Town Municipal Council,pop,Class III
+786,Neem-Ka-Thana,Rajasthan,Municipality,pop,Class III
+787,Memari,West Bengal,Municipality,pop,
+788,Nilanga,Maharashtra,Municipal Council,pop,Class III
+789,Naharlagun,Arunachal Pradesh,Notified Town,pop,Class III
+790,Pakaur,Jharkhand,Municipality,pop,
+791,Wai,Maharashtra,Municipal Council,pop,Class III
+792,Tarikere,Karnataka,Town Municipal Council,pop,Class III
+793,Malavalli,Karnataka,Town Municipal Council,pop,
+794,Raisen,Madhya Pradesh,Municipality,pop,
+795,Lahar,Madhya Pradesh,Nagar Panchayat,pop,Class III
+796,Uravakonda,Andhra Pradesh,Census town,pop,Class III
+797,Savanur,Karnataka,Town Municipal Council,pop,
+798,Sirohi,Rajasthan,Municipality,pop,
+799,Udhampur,Jammu and Kashmir,Urban Agglomeration,pop,Class III
+800,Umarga,Maharashtra,Municipal Council,pop,Class III
+801,Pratapgarh,Rajasthan,Municipality,pop,
+802,Lingsugur,Karnataka,Town Municipal Council,pop,Class III
+803,Usilampatti,Tamil Nadu,Municipality,pop,Class III
+804,Palia Kalan,Uttar Pradesh,Municipal board,pop,
+805,Wokha,Nagaland,Town Committee / Town Area Committee.,pop,Class III
+806,Rajpipla,Gujarat,Municipality,pop,
+807,Vijayapura,Karnataka,Town Municipal Council,pop,Class III
+808,Rawatbhata,Rajasthan,Municipality,pop,
+809,Sangaria,Rajasthan,Municipality,pop,
+810,Paithan,Maharashtra,Municipal Council,pop,
+811,Rahuri,Maharashtra,Municipal Council,pop,
+812,Patti,Punjab,Municipal Council,pop,
+813,Zaidpur,Uttar Pradesh,Nagar Panchayat,pop,Class III
+814,Lalsot,Rajasthan,Municipality,pop,Class III
+815,Maihar,Madhya Pradesh,Municipality,pop,
+816,Vedaranyam,Tamil Nadu,Municipality,pop,Class III
+817,Nawapur,Maharashtra,Municipal Council,pop,Class III
+818,Solan,Himachal Pradesh,Municipal Council,pop,
+819,Vapi,Gujarat,Industrial Notified Area,pop,Class III
+820,Sanawad,Madhya Pradesh,Municipality,pop,
+821,Warisaliganj,Bihar,Nagar Panchayat.,pop,Class III
+822,Revelganj,Bihar,Municipality,pop,
+823,Sabalgarh,Madhya Pradesh,Urban Agglomeration,pop,
+824,Tuljapur,Maharashtra,Municipal Council,pop,Class III
+825,Simdega,Jharkhand,Notified area,pop,
+826,Musabani,Jharkhand,Census town,pop,
+827,Kodungallur,Kerala,Municipality,pop,Class III
+828,Phulabani,Odisha,Notified area committee / Notified Area Council,pop,
+829,Umreth,Gujarat,Municipality,pop,Class III
+830,Narsipatnam,Andhra Pradesh,Census town,pop,Class III
+831,Nautanwa,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+832,Rajgir,Bihar,Notified area,pop,
+833,Yellandu,Telangana,Municipality,pop,Class III
+834,Sathyamangalam,Tamil Nadu,Municipality,pop,
+835,Pilibanga,Rajasthan,Municipality,pop,
+836,Morshi,Maharashtra,Municipal Council,pop,
+837,Pehowa,Haryana,Municipal Committee,pop,
+838,Sonepur,Bihar,Notified area,pop,
+839,Pappinisseri,Kerala,Census town,pop,
+840,Zamania,Uttar Pradesh,Nagar Panchayat,pop,Class III
+841,Mihijam,Jharkhand,Notified area,pop,
+842,Purna,Maharashtra,Municipal Council,pop,
+843,Puliyankudi,Tamil Nadu,Municipality,pop,
+844,pop,
+845,Umaria,Madhya Pradesh,Municipality,pop,Class III
+846,Porsa,Madhya Pradesh,Municipality,pop,
+847,Naugawan Sadat,Uttar Pradesh,Nagar Panchayat,pop,Class III
+848,Fatehpur Sikri,Uttar Pradesh,Municipal board.,pop,Class III
+849,Manuguru,Telangana,Census town,pop,
+850,Udaipur,Tripura,Municipal Council,pop,Class III
+851,Pipar City,Rajasthan,Municipality,pop,
+852,Pattamundai,Odisha,Notified area committee / Notified Area Council,pop,
+853,Nanjikottai,Tamil Nadu,Census town,pop,Class III
+854,Taranagar,Rajasthan,Municipality,pop,Class III
+855,Yerraguntla,Andhra Pradesh,Census town,pop,Class III
+856,Satana,Maharashtra,Municipal Council,pop,
+857,Sherghati,Bihar,Notified area,pop,
+858,Sankeshwara,Karnataka,Town Municipal Council,pop,
+859,Madikeri,Karnataka,Town Municipal Council,pop,
+860,Thuraiyur,Tamil Nadu,Municipality,pop,Class III
+861,Sanand,Gujarat,Municipality,pop,
+862,Rajula,Gujarat,Municipality,pop,
+863,Kyathampalle,Telangana,Census town,pop,Class III
+864,pop,
+865,Tilda Newra,Chhattisgarh,Municipality,pop,Class III
+866,Narsinghgarh,Madhya Pradesh,Municipality,pop,Class III
+867,Chittur-Thathamangalam,Kerala,Municipality,pop,Class III
+868,Malaj Khand,Madhya Pradesh,Municipality,pop,
+869,Sarangpur,Madhya Pradesh,Municipality,pop,
+870,Robertsganj,Uttar Pradesh,Municipal board,pop,
+871,Sirkali,Tamil Nadu,Municipality,pop,
+872,Radhanpur,Gujarat,Municipality,pop,
+873,Tiruchendur,Tamil Nadu,Town Panchayat,pop,Class III
+874,Utraula,Uttar Pradesh,Nagar Palika Parishad.,pop,Class III
+875,Patratu,Jharkhand,Census town,pop,
+876,pop,Class III
+877,Periyasemur,Tamil Nadu,Town Panchayat,pop,
+878,Pathri,Maharashtra,Municipal Council,pop,
+879,Sadabad,Uttar Pradesh,Nagar Panchayat,pop,
+880,Talikota,Karnataka,Town Municipal Council,pop,Class III
+881,Sinnar,Maharashtra,Municipal Council,pop,
+882,Mungeli,Chhattisgarh,Urban Agglomeration,pop,
+883,Sedam,Karnataka,Town Municipal Council,pop,
+884,Shikaripur,Karnataka,Town Municipal Council,pop,
+885,Sumerpur,Rajasthan,Municipality,pop,
+886,Sattur,Tamil Nadu,Municipality,pop,
+887,Sugauli,Bihar,Notified area,pop,
+888,Lumding,Assam,Municipal board,pop,Class III
+889,Vandavasi,Tamil Nadu,Municipality,pop,Class III
+890,Titlagarh,Odisha,Notified area committee / Notified Area Council ,pop,Class III
+891,Uchgaon,Maharashtra,Census town,pop,Class III
+892,Mokokchung,Nagaland,Town Committee / Town Area Committee,pop,
+893,Paschim Punropara,West Bengal,Census town,pop,
+894,Sagwara,Rajasthan,Municipality,pop,
+895,Ramganj Mandi,Rajasthan,Municipality,pop,
+896,Tarakeswar,West Bengal,Municipality,pop,Class III
+897,Mahalingapura,Karnataka,Town Municipal Council,pop,
+898,Dharmanagar,Tripura,Municipal Council,pop,Class III
+899,Mahemdabad,Gujarat,Municipality,pop,
+900,Manendragarh,Chhattisgarh,Municipality,pop,
+901,Uran,Maharashtra,Municipal Council,pop,Class III
+902,Tharamangalam,Tamil Nadu,Town Panchayat,pop,Class III
+903,Tirukkoyilur,Tamil Nadu,Town Panchayat,pop,Class III
+904,Pen,Maharashtra,Municipal Council,pop,
+905,Makhdumpur,Bihar,Notified area,pop,
+906,Maner,Bihar,Notified area,pop,
+907,Oddanchatram,Tamil Nadu,Town Panchayat,pop,Class III
+908,Palladam,Tamil Nadu,Town Panchayat,pop,
+909,Mundi,Madhya Pradesh,Nagar Panchayat,pop,
+910,Nabarangapur,Odisha,Municipality,pop,Class III
+911,Mudalagi,Karnataka,Town Municipal Council,pop,
+912,Samalkha,Haryana,Municipal Committee,pop,
+913,Nepanagar,Madhya Pradesh,Municipality,pop,Class III
+914,Karjat,Maharashtra,Municipal Council,pop,Class III
+915,Ranavav,Gujarat,Urban Agglomeration,pop,
+916,Pedana,Andhra Pradesh,Nagar Panchayat,pop,
+917,Pinjore,Haryana,Urban Agglomeration,pop,
+918,Lakheri,Rajasthan,Municipality,pop,Class III
+919,Pasan,Madhya Pradesh,Municipality,pop,
+920,Puttur,Andhra Pradesh,Census town,pop,
+921,Vadakkuvalliyur,Tamil Nadu,Town Panchayat,pop,Class III
+922,Tirukalukundram,Tamil Nadu,Town Panchayat,pop,Class III
+923,Mahidpur,Madhya Pradesh,Urban Agglomeration,pop,
+924,Mussoorie,Uttarakhand,Urban Agglomeration,pop,
+925,Muvattupuzha,Kerala,Municipality,pop,
+926,Rasra,Uttar Pradesh,Municipal board,pop,
+927,Udaipurwati,Rajasthan,Municipality,pop,Class III
+928,Manwath,Maharashtra,Municipal Council,pop,
+929,Adoor,Kerala,Municipality,pop,Class III
+930,Uthamapalayam,Tamil Nadu,Town Panchayat,pop,Class III
+931,Partur,Maharashtra,Municipal Council,pop,
+932,Nahan,Himachal Pradesh,Municipal Council,pop,Class III
+933,Ladwa,Haryana,Municipal Committee,pop,Class III
+934,Mankachar,Assam,Census town,pop,
+935,Nongstoin,Meghalaya,Town Committee / Town Area Committee,pop,Class III
+936,Losal,Rajasthan,Municipality,pop,Class III
+937,Sri Madhopur,Rajasthan,Municipality,pop,
+938,Ramngarh,Rajasthan,Municipality,pop,
+939,Mavelikkara,Kerala,Municipality,pop,
+940,Rawatsar,Rajasthan,Municipality,pop,
+941,Rajakhera,Rajasthan,Municipality,pop,
+942,Lar,Uttar Pradesh,Nagar Panchayat,pop,Class III
+943,Lal Gopalganj Nindaura,Uttar Pradesh,Nagar Panchayat,pop,Class III
+944,Muddebihal,Karnataka,Town Municipal Council,pop,
+945,Sirsaganj,Uttar Pradesh,Urban Agglomeration,pop,
+946,Shahpura,Rajasthan,Municipality,pop,
+947,Surandai,Tamil Nadu,Town Panchayat,pop,
+948,Sangole,Maharashtra,Municipal Council,pop,
+949,Pavagada,Karnataka,Town Panchayat,pop,
+950,Tharad,Gujarat,Municipality,pop,Class III
+951,Mansa,Gujarat,Municipality,pop,
+952,Umbergaon,Gujarat,Municipality,pop,Class III
+953,Mavoor,Kerala,Census town,pop,
+954,Nalbari,Assam,Municipal board,pop,Class III
+955,Talaja,Gujarat,Municipality,pop,Class III
+956,Malur,Karnataka,Town Municipal Council,pop,
+957,Mangrulpir,Maharashtra,Municipal Council,pop,
+958,Soro,Odisha,Notified area committee / Notified Area Council,pop,
+959,Shahpura,Rajasthan,Municipality,pop,
+960,Vadnagar,Gujarat,Municipality,pop,Class III
+961,Raisinghnagar,Rajasthan,Municipality,pop,
+962,Sindhagi,Karnataka,Town Municipal Council,pop,
+963,Sanduru,Karnataka,Town Panchayat,pop,
+964,Sohna,Haryana,Municipal Committee,pop,
+965,Manavadar,Gujarat,Municipality,pop,
+966,Pihani,Uttar Pradesh,Municipal board,pop,
+967,Safidon,Haryana,Municipal Committee,pop,
+968,Risod,Maharashtra,Municipal Council,pop,
+969,Rosera,Bihar,Municipality,pop,
+970,Sankari,Tamil Nadu,Town Panchayat,pop,
+971,Malpura,Rajasthan,Urban Agglomeration,pop,
+972,Sonamukhi,West Bengal,Municipality,pop,
+973,pop,
+974,Nokha,Bihar,Nagar Panchayat,pop,Class III
+975,PandUrban Agglomeration,West Bengal,Census town,pop,
+976,Mainaguri,West Bengal,Census town,pop,
+977,Afzalpur,Karnataka,Town Panchayat,pop,Class III
+978,Shirur,Maharashtra,Municipal Council,pop,
+979,Salaya,Gujarat,Municipality,pop,
+980,Shenkottai,Tamil Nadu,Municipality,pop,
+981,Pratapgarh,Tripura,Census town,pop,
+982,Vadipatti,Tamil Nadu,Town Panchayat,pop,Class III
+983,Nagarkurnool,Telangana,Census town,pop,Class III
+984,Savner,Maharashtra,Municipal Council,pop,
+985,Sasvad,Maharashtra,Municipal Council,pop,
+986,Rudrapur,Uttar Pradesh,Nagar Panchayat,pop,
+987,Soron,Uttar Pradesh,Municipal board,pop,
+988,Sholingur,Tamil Nadu,Town Panchayat,pop,
+989,Pandharkaoda,Maharashtra,Municipal Council,pop,
+990,Perumbavoor,Kerala,Municipality,pop,
+991,Maddur,Karnataka,Town Municipal Council,pop,
+992,Nadbai,Rajasthan,Municipality,pop,Class III
+993,Talode,Maharashtra,Municipal Council,pop,Class III
+994,Shrigonda,Maharashtra,Municipal Council,pop,
+995,Madhugiri,Karnataka,Town Municipal Council,pop,
+996,Tekkalakote,Karnataka,Town Panchayat,pop,Class III
+997,Seoni-Malwa,Madhya Pradesh,Municipality,pop,
+998,Shirdi,Maharashtra,Municipal Council,pop,
+999,SUrban Agglomerationr,Uttar Pradesh,Municipal board,pop,
+1000,Terdal,Karnataka,Town Municipal Council,pop,Class III
+1001,Raver,Maharashtra,Municipal Council,pop,
+1002,Tirupathur,Tamil Nadu,Town Panchayat,pop,Class III
+1003,Taraori,Haryana,Municipal Committee.,pop,Class III
+1004,Mukhed,Maharashtra,Municipal Council,pop,
+1005,Manachanallur,Tamil Nadu,Town Panchayat,pop,
+1006,Rehli,Madhya Pradesh,Municipality,pop,
+1007,Sanchore,Rajasthan,Municipality,pop,
+1008,Rajura,Maharashtra,Municipal Council,pop,
+1009,Piro,Bihar,Notified area,pop,
+1010,Mudabidri,Karnataka,Town Municipal Council,pop,
+1011,Vadgaon Kasba,Maharashtra,Municipal Council,pop,Class III
+1012,Nagar,Rajasthan,Municipality,pop,Class III
+1013,Vijapur,Gujarat,Municipality,pop,Class III
+1014,Viswanatham,Tamil Nadu,Census town,pop,Class III
+1015,Polur,Tamil Nadu,Town Panchayat,pop,
+1016,Panagudi,Tamil Nadu,Town Panchayat,pop,
+1017,Manawar,Madhya Pradesh,Municipality,pop,
+1018,Tehri,Uttarakhand,Nagar Palika Parishad.,pop,Class III
+1019,Samdhan,Uttar Pradesh,Nagar Panchayat,pop,
+1020,Pardi,Gujarat,Municipality,pop,
+1021,Rahatgarh,Madhya Pradesh,Nagar Panchayat,pop,
+1022,Panagar,Madhya Pradesh,Municipality,pop,
+1023,Uthiramerur,Tamil Nadu,Town Panchayat,pop,Class III
+1024,Tirora,Maharashtra,Municipal Council,pop,Class III
+1025,Rangia,Assam,Municipal board,pop,
+1026,Sahjanwa,Uttar Pradesh,Nagar Panchayat,pop,
+1027,Wara Seoni,Madhya Pradesh,Municipality,pop,Class III
+1028,Magadi,Karnataka,Town Municipal Council,pop,
+1029,Rajgarh (Alwar),Rajasthan,Municipality,pop,
+1030,Rafiganj,Bihar,Notified area,pop,
+1031,Tarana,Madhya Pradesh,Nagar Panchayat,pop,Class III
+1032,Rampur Maniharan,Uttar Pradesh,Nagar Panchayat,pop,
+1033,Sheoganj,Rajasthan,Municipality,pop,
+1034,Raikot,Punjab,Municipal Council,pop,
+1035,Pauri,Uttarakhand,Municipal board,pop,
+1036,Sumerpur,Uttar Pradesh,Nagar Panchayat,pop,
+1037,Navalgund,Karnataka,Town Municipal Council,pop,Class III
+1038,Shahganj,Uttar Pradesh,Municipal board,pop,
+1039,Marhaura,Bihar,Notified area,pop,
+1040,Tulsipur,Uttar Pradesh,Nagar Panchayat,pop,Class III
+1041,Sadri,Rajasthan,Municipality,pop,
+1042,Thiruthuraipoondi,Tamil Nadu,Municipality,pop,Class III
+1043,Shiggaon,Karnataka,Town Panchayat,pop,
+1044,Pallapatti,Tamil Nadu,Census town,pop,
+1045,Mahendragarh,Haryana,Municipal Committee,pop,
+1046,Sausar,Madhya Pradesh,Nagar Panchayat,pop,
+1047,Ponneri,Tamil Nadu,Town Panchayat,pop,
+1048,Mahad,Maharashtra,Municipal Council,pop,
+1049,Lohardaga,Jharkhand,Municipal Council,pop,Class III
+1050,Tirwaganj,Uttar Pradesh,Nagar Panchayat,pop,Class III
+1051,Margherita,Assam,Census town,pop,
+1052,Sundarnagar,Himachal Pradesh,Municipal Council,pop,
+1053,Rajgarh,Madhya Pradesh,Nagar Panchayat,pop,
+1054,Mangaldoi,Assam,Municipal board,pop,
+1055,Renigunta,Andhra Pradesh,Census town,pop,
+1056,Longowal,Punjab,Municipal Council,pop,Class III
+1057,Ratia,Haryana,Municipal Committee,pop,
+1058,Lalgudi,Tamil Nadu,Town Panchayat,pop,Class III
+1059,Shrirangapattana,Karnataka,Town Municipal Council,pop,
+1060,Niwari,Madhya Pradesh,Nagar Panchayat,pop,Class III
+1061,Natham,Tamil Nadu,Town Panchayat,pop,Class III
+1062,Unnamalaikadai,Tamil Nadu,Town Panchayat,pop,Class III
+1063,PurqUrban Agglomerationzi,Uttar Pradesh,Urban Agglomeration,pop,
+1064,pop,
+1065,Mirganj,Bihar,Notified area,pop,
+1066,Todaraisingh,Rajasthan,Municipality,pop,Class III
+1067,Warhapur,Uttar Pradesh,Nagar Panchayat.,pop,Class III
+1068,Rajam,Andhra Pradesh,Census town,pop,
+1069,Urmar Tanda,Punjab,Municipal Council,pop,Class III
+1070,Lonar,Maharashtra,Municipal Council,pop,Class III
+1071,Powayan,Uttar Pradesh,Nagar Panchayat,pop,
+1072,P.N.Patti,Tamil Nadu,Town Panchayat,pop,
+1073,Palampur,Himachal Pradesh,Town Panchayat,pop,
+1074,Srisailam Project (Right Flank Colony) Township,Andhra Pradesh,Census town,pop,
+1075,Sindagi,Karnataka,Town Municipal Council,pop,
+1076,Sandi,Uttar Pradesh,Municipal board,pop,
+1077,Vaikom,Kerala,Municipality,pop,Class III
+1078,Malda,West Bengal,Municipality,pop,
+1079,Tharangambadi,Tamil Nadu,Town Panchayat,pop,Class III
+1080,Sakaleshapura,Karnataka,Town Municipal Council,pop,
+1081,Lalganj,Bihar,Notified area committee / Notified Area Council,pop,Class III
+1082,Malkangiri,Odisha,Notified area committee / Notified Area Council,pop,
+1083,Rapar,Gujarat,Municipality,pop,
+1084,Mauganj,Madhya Pradesh,Nagar Panchayat,pop,
+1085,Todabhim,Rajasthan,Municipality,pop,Class III
+1086,Srinivaspur,Karnataka,Town Panchayat,pop,
+1087,Murliganj,Bihar,Notified area,pop,
+1088,Reengus,Rajasthan,Municipality,pop,
+1089,Sawantwadi,Maharashtra,Municipal Council,pop,
+1090,Tittakudi,Tamil Nadu,Town Panchayat,pop,Class III
+1091,Lilong,Manipur,Nagar Panchayat,pop,Class III
+1092,Rajaldesar,Rajasthan,Municipality,pop,
+1093,Pathardi,Maharashtra,Municipal Council,pop,
+1094,Achhnera,Uttar Pradesh,Nagar Panchayat.,pop,Class III
+1095,Pacode,Tamil Nadu,Town Panchayat,pop,
+1096,Naraura,Uttar Pradesh,Nagar Panchayat,pop,Class III
+1097,Nakur,Uttar Pradesh,Nagar Palika Parishad,pop,Class III
+1098,Palai,Kerala,Municipality,pop,
+1099,pop,
+1100,Manasa,Madhya Pradesh,Nagar Panchayat,pop,
+1101,Nainpur,Madhya Pradesh,Municipality,pop,Class III
+1102,Sahaspur,Uttar Pradesh,Nagar Panchayat,pop,
+1103,Pauni,Maharashtra,Municipal Council,pop,
+1104,Prithvipur,Madhya Pradesh,Nagar Panchayat,pop,
+1105,Ramtek,Maharashtra,Municipal Council,pop,
+1106,Silapathar,Assam,Town Committee / Town Area Committee,pop,
+1107,Songadh,Gujarat,Municipality,pop,
+1108,Safipur,Uttar Pradesh,Nagar Panchayat,pop,
+1109,Sohagpur,Madhya Pradesh,Nagar Panchayat,pop,
+1110,Mul,Maharashtra,Municipal Council,pop,
+1111,Sadulshahar,Rajasthan,Municipality,pop,
+1112,Phillaur,Punjab,Municipal Council,pop,
+1113,Sambhar,Rajasthan,Municipality,pop,
+1114,Prantij,Rajasthan,Municipality,pop,
+1115,Nagla,Uttarakhand,Census town,pop,Class III
+1116,Pattran,Punjab,Nagar Panchayat,pop,
+1117,Mount Abu,Rajasthan,Municipality,pop,
+1118,Reoti,Uttar Pradesh,Nagar Panchayat,pop,
+1119,Tenu dam-cum-Kathhara,Jharkhand,Census town.,pop,Class III
+1120,Panchla,West Bengal,Census town,pop,
+1121,Sitarganj,Uttarakhand,Municipal board,pop,
+1122,Pasighat,Arunachal Pradesh,Census town,pop,
+1123,Motipur,Bihar,Notified area,pop,
+1124,O' Valley,Tamil Nadu,Town Panchayat,pop,Class III
+1125,Raghunathpur,West Bengal,Municipality,pop,
+1126,Suriyampalayam,Tamil Nadu,Town Panchayat,pop,
+1127,Qadian,Punjab,Municipal Council,pop,Class III
+1128,Rairangpur,Odisha,Notified area committee / Notified Area Council,pop,
+1129,Silvassa,Dadra and Nagar Haveli,Census town,pop,
+1130,Nowrozabad (Khodargama),Madhya Pradesh,Nagar Panchayat,pop,Class III
+1131,Mangrol,Rajasthan,Municipality,pop,
+1132,Soyagaon,Maharashtra,Census town,pop,
+1133,Sujanpur,Punjab,Municipal Council,pop,
+1134,Manihari,Bihar,Notified area,pop,
+1135,Sikanderpur,Uttar Pradesh,Nagar Panchayat,pop,
+1136,Mangalvedhe,Maharashtra,Municipal Council,pop,
+1137,Phulera,Rajasthan,Municipality,pop,
+1138,Ron,Karnataka,Town Panchayat,pop,
+1139,Sholavandan,Tamil Nadu,Town Panchayat,pop,
+1140,Saidpur,Uttar Pradesh,Nagar Panchayat,pop,
+1141,Shamgarh,Madhya Pradesh,Nagar Panchayat,pop,
+1142,Thammampatti,Tamil Nadu,Town Panchayat,pop,Class III
+1143,Maharajpur,Madhya Pradesh,Nagar Panchayat,pop,
+1144,Multai,Madhya Pradesh,Nagar Panchayat,pop,
+1145,Mukerian,Punjab,Municipal Council,pop,
+1146,Sirsi,Uttar Pradesh,Nagar Panchayat,pop,
+1147,Purwa,Uttar Pradesh,Nagar Panchayat,pop,
+1148,Sheohar,Bihar,Notified area,pop,
+1149,Namagiripettai,Tamil Nadu,Town Panchayat,pop,Class III
+1150,Parasi,Uttar Pradesh,Census town,pop,
+1151,Lathi,Gujarat,Municipality,pop,Class III
+1152,Lalganj,Uttar Pradesh,Nagar Panchayat,pop,Class III
+1153,Narkhed,Maharashtra,Municipal Council,pop,Class III
+1154,Mathabhanga,West Bengal,Municipality,pop,
+1155,Shendurjana,Maharashtra,Municipal Council,pop,
+1156,Peravurani,Tamil Nadu,Town Panchayat,pop,
+1157,Mariani,Assam,Town Committee / Town Area Committee,pop,
+1158,Phulpur,Uttar Pradesh,Nagar Panchayat,pop,
+1159,Rania,Haryana,Municipal Committee,pop,
+1160,Pali,Madhya Pradesh,Nagar Panchayat,pop,
+1161,Pachore,Madhya Pradesh,Nagar Panchayat,pop,
+1162,Parangipettai,Tamil Nadu,Town Panchayat,pop,
+1163,Pudupattinam,Tamil Nadu,Census town,pop,
+1164,Panniyannur,Kerala,Census town,pop,
+1165,Maharajganj,Bihar,Notified area,pop,
+1166,Rau,Madhya Pradesh,Nagar Panchayat,pop,
+1167,Monoharpur,West Bengal,Census town,pop,
+1168,Mandawa,Rajasthan,Municipality,pop,
+1169,Marigaon,Assam,Town Committee / Town Area Committee,pop,
+1170,Pallikonda,Tamil Nadu,Town Panchayat,pop,
+1171,Pindwara,Rajasthan,Municipality,pop,
+1172,Shishgarh,Uttar Pradesh,Nagar Panchayat,pop,
+1173,Patur,Maharashtra,Municipal Council,pop,
+1174,Mayang Imphal,Manipur,Nagar Panchayat,pop,
+1175,Mhowgaon,Madhya Pradesh,Nagar Panchayat,pop,
+1176,Guruvayoor,Kerala,Municipality,pop,Class III
+1177,Mhaswad,Maharashtra,Municipal Council,pop,
+1178,Sahawar,Uttar Pradesh,Nagar Panchayat,pop,
+1179,Sivagiri,Tamil Nadu,Town Panchayat,pop,
+1180,Mundargi,Karnataka,Town Panchayat,pop,
+1181,Punjaipugalur,Tamil Nadu,Town Panchayat,pop,
+1182,Kailasahar,Tripura,Nagar Panchayat,pop,Class III
+1183,Samthar,Uttar Pradesh,Municipal board,pop,
+1184,Sakti,Chhattisgarh,Nagar Panchayat,pop,
+1185,Sadalagi,Karnataka,Town Panchayat,pop,
+1186,Silao,Bihar,Notified area,pop,
+1187,Mandalgarh,Rajasthan,Municipality,pop,
+1188,Loha,Maharashtra,Municipal Council,pop,Class III
+1189,Pukhrayan,Uttar Pradesh,Municipal board,pop,
+1190,Padmanabhapuram,Tamil Nadu,Municipality,pop,
+1191,Belonia,Tripura,Municipal Council,pop,Class IV
+1192,Saiha,Mizoram,Notified Town,pop,
+1193,Srirampore,West Bengal,,19500,
+1194,Talwara,Punjab,Census town,pop,Class IV
+1195,Puthuppally,Kerala,Municipality,pop,
+1196,Khowai,Tripura,Municipal Council,pop,Class IV
+1197,Vijaypur,Madhya Pradesh,Nagar Panchayat.,pop,Class IV
+1198,Takhatgarh,Rajasthan,Municipality,pop,Class IV
+1199,Thirupuvanam,Tamil Nadu,Town Panchayat,pop,Class IV
+1200,Adra,West Bengal,Census town.,pop,Class IV
+1201,Piriyapatna,Karnataka,Census town,pop,
+1202,Obra,Uttar Pradesh,Nagar Panchayat,pop,Class IV
+1203,Adalaj,Gujarat,Census town.,pop,Class IV
+1204,Nandgaon,Maharashtra,Nagar Panchayat,pop,Class IV
+1205,Barh,Bihar,Census town,pop,Class IV
+1206,Chhapra,Gujarat,Census town,pop,Class IV
+1207,Panamattom,Kerala,Notified area,pop,
+1208,Niwai,Uttar Pradesh,Nagar Panchayat,pop,Class V
+1209,Bageshwar,Uttarakhand,Nagar Palika Parishad,pop,Class V
+1210,Tarbha,Odisha,Notified area committee / Notified Area Council.,pop,Class V
+1211,Adyar,Karnataka,Census town.,pop,Class V
+1212,Narsinghgarh,Madhya Pradesh,Census town,pop,Class V
+1213,Warud,Maharashtra,Municipal Council,pop,Class V
+1214,Asarganj,Bihar,Census town.,pop,Class V
+1215,Sarsod,Haryana,Gram Panchayat,pop,

@@ -25,10 +25,8 @@ app.get('/', (req, res) => {
 });
 
 app.get('/show_experience', async(req, res) => {
-	const e = new Experience({ name: 'Chidhambaram', date: '28/Nov/22', place: 'Meenakship Store', city: 'Bangalore', state: 'Karnataka', 
-							   category: 'Stationary', subCategory: 'Paper', shortDescr: 'Purchased Xerox paper bundle (500 pages)'});
-	await e.save();
-	res.send(e);
+	const experiences = await Experience.find({});
+	res.render('experiences/index', {experiences});
 });
 
 app.listen(8080, () => {
