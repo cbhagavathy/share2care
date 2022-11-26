@@ -1,7 +1,8 @@
 const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
-const Experience = require('./models/experience')
+const methodOverride = require('method-override');
+const Experience = require('./models/experience');
 
 //Establishing MongoDB
 mongoose.connect('mongodb://localhost:27017/share2care', {
@@ -21,6 +22,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 app.use(express.urlencoded({extended: true}));
+app.use(methodOverride('_method'));
 
 app.get('/', (req, res) => {
 	res.render('home');
@@ -42,6 +44,12 @@ app.get('/show_experiences/:id', async(req, res) => {
 	res.render('experiences/show', {experience});
 });
 
+app.get('/show_experiences/:id/edit', async(req, res) => {
+	const experience = await Experience.findById(req.params.id);
+	res.render('experiences/edit', {experience});
+});
+
+
 app.get('/experience/new', (req, res) => {
 	res.render('experiences/new');
 });
@@ -50,4 +58,8 @@ app.listen(8080, () => {
 	console.log('Caring on port 8080');
 });
 
-
+app.put('/show_experiences/:id', async (req, res) => {
+	const { id } = req.params;
+	const experience = await Experience.findByIdAndUpdate(id, {...req.body.experience});
+	res.redirect(`/show_experiences/${experience._id}`);
+});
