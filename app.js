@@ -20,18 +20,30 @@ const app = express();
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
+app.use(express.urlencoded({extended: true}));
+
 app.get('/', (req, res) => {
 	res.render('home');
 });
 
-app.get('/show_experience', async(req, res) => {
+app.post('/show_experiences', async(req, res) => {
+	const experience = new Experience(req.body.experience);
+	experience.save();
+	res.redirect(`/show_experiences/${experience._id}`);
+});
+
+app.get('/show_experiences', async(req, res) => {
 	const experiences = await Experience.find({});
 	res.render('experiences/index', {experiences});
 });
 
-app.get('/show_experience/:id', async(req, res) => {
+app.get('/show_experiences/:id', async(req, res) => {
 	const experience = await Experience.findById(req.params.id);
 	res.render('experiences/show', {experience});
+});
+
+app.get('/experience/new', (req, res) => {
+	res.render('experiences/new');
 });
 
 app.listen(8080, () => {

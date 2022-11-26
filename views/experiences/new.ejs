@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Experience - Share2Care</title>
+</head>
+<body>
+    <center><h1>Add Experience</h1></center>
+    <br>
+    <form action="/show_experiences" method="POST">
+        <div>
+            <label for="name">Name :</label>
+            <input type="text" id="name" name="experience[name]">
+        </div>
+        <div>
+            <label for="date">Date :</label>
+            <input type="text" id="date" name="experience[date]">
+        </div>
+        <div>
+            <label for="place">Place :</label>
+            <input type="text" id="place" name="experience[place]">
+        </div>
+        <div>
+            <label for="city">City :</label>
+            <input type="text" id="city" name="experience[city]">
+        </div>
+        <div>
+            <label for="state">State :</label>
+            <input type="text" id="state" name="experience[state]">
+        </div>
+        <div>
+            <label for="category">Category :</label>
+            <input type="text" id="category" name="experience[category]">
+        </div>
+        <div>
+            <label for="subCategory">Sub Category :</label>
+            <input type="text" id="subCategory" name="experience[subCategory]">
+        </div>
+        <div>
+            <label for="shortDescr">Short Description :</label>
+            <input type="text" id="shortDescr" name="experience[shortDescr]">
+        </div>
+        <div>
+            <label for="longDescr">Long Description :</label>
+            <input type="text" id="longDescr" name="experience[longDescr]">
+        </div>
+        <button>Share Experience</button>
+    </form>
+</body>
+</html>
