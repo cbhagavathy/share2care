@@ -63,3 +63,9 @@ app.put('/show_experiences/:id', async (req, res) => {
 	const experience = await Experience.findByIdAndUpdate(id, {...req.body.experience});
 	res.redirect(`/show_experiences/${experience._id}`);
 });
+
+app.delete('/show_experiences/:id', async (req, res) => {
+	const { id } = req.params;
+	await Experience.findByIdAndDelete(id);
+	res.redirect('/show_experiences');
+});

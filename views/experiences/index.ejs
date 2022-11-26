@@ -8,6 +8,8 @@
 </head>
 <body>
     <center><h1>Welcome to Share2Care</h1></center>
+    <br>
+    <a href="/experience/new">Add Experiences</a>
     <ul>
         <% for (let e of experiences) {%>
         <li><a href="/show_experiences/<%= e._id %>"><%= e.name %></a></li>
